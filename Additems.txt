@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Cleared all Items on cart.
-=======
 Adding one item. Added another item.
->>>>>>> user1
