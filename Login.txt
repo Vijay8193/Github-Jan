@@ -1,1 +1,3 @@
-Login credentials entered
+Login details 
+user vjv
+password pass1
